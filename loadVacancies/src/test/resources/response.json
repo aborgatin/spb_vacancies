@@ -1,0 +1,1430 @@
+{
+  "items": [
+    {
+      "id": "38032101",
+      "premium": false,
+      "name": "Мастер маникюра",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "1 линия",
+        "building": "метро Проспект Ветеранов",
+        "description": null,
+        "lat": 59.84211,
+        "lng": 30.250588,
+        "raw": "Санкт-Петербург, 1 линия, метро Проспект Ветеранов",
+        "metro": {
+          "station_name": "Проспект Ветеранов",
+          "line_name": "Кировско-Выборгская",
+          "station_id": "14.208",
+          "line_id": "14",
+          "lat": 59.84211,
+          "lng": 30.250588
+        },
+        "metro_stations": [
+          {
+            "station_name": "Проспект Ветеранов",
+            "line_name": "Кировско-Выборгская",
+            "station_id": "14.208",
+            "line_id": "14",
+            "lat": 59.84211,
+            "lng": 30.250588
+          }
+        ],
+        "id": "2168272"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2476133",
+        "name": "ЭКСПРЕСС",
+        "url": "https://api.hh.ru/employers/2476133",
+        "alternate_url": "https://hh.ru/employer/2476133",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3169461.png",
+          "90": "https://hhcdn.ru/employer-logo/3169460.png",
+          "original": "https://hhcdn.ru/employer-logo-original/682082.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2476133",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:34:20+0300",
+      "created_at": "2020-07-30T09:34:20+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38032101",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38032101?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38032101",
+      "relations": [],
+      "snippet": {
+        "requirement": "Имеет диплом ,или хочет пройти обучение,базового куса по аппаратному педикюру и маникюру. -Готов развиваться и расти как профессионал. -",
+        "responsibility": "Выполнение услуг маникюра и педикюра. – Стерилизация и дезинфекция инструментов. – Уборка и передача рабочего места по смене. – Своевременное прохождение мед осмотров..."
+      },
+      "contacts": {
+        "name": "Наталья Александровна",
+        "email": "natashaaz@mail.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "911",
+            "number": "9926826",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      }
+    },
+    {
+      "id": "38313173",
+      "premium": false,
+      "name": "Бариста (Ст.М.Девяткино)-Авиаторов Балтика д.11",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 25000,
+        "to": 50000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Мурино",
+        "street": "проспект Авиаторов Балтики",
+        "building": "11/1",
+        "description": null,
+        "lat": 60.055111,
+        "lng": 30.440159,
+        "raw": "Мурино, проспект Авиаторов Балтики, 11/1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "4039936"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2092172",
+        "name": "Альянс",
+        "url": "https://api.hh.ru/employers/2092172",
+        "alternate_url": "https://hh.ru/employer/2092172",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/1760831.png",
+          "original": "https://hhcdn.ru/employer-logo-original/329620.png",
+          "90": "https://hhcdn.ru/employer-logo/1760830.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2092172",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:34:20+0300",
+      "created_at": "2020-07-30T09:34:20+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38313173",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38313173?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38313173",
+      "relations": [],
+      "snippet": {
+        "requirement": "Уверенная работа с кофемашиной. Уверенная работа с кофемашиной.",
+        "responsibility": "Приготовление Чая и кофейных Напитков. Поддерживание чистоты и порядка на рабочем месте. Радушное отношение к гостям. Бережное отношение к оборудованию..."
+      },
+      "contacts": {
+        "name": "Илья",
+        "email": "h.aliev@alcoholding.ru",
+        "phones": [
+          {
+            "comment": "09:00 до 22:00",
+            "city": "981",
+            "number": "7693646",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "38313168",
+      "premium": false,
+      "name": "Водитель Газели",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 45000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Коломяжский проспект",
+        "building": "27",
+        "description": null,
+        "lat": 60.013501,
+        "lng": 30.295485,
+        "raw": "Санкт-Петербург, Коломяжский проспект, 27",
+        "metro": null,
+        "metro_stations": [],
+        "id": "369598"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "665662",
+        "name": "ЕвроТрансСтрой",
+        "url": "https://api.hh.ru/employers/665662",
+        "alternate_url": "https://hh.ru/employer/665662",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/155563.JPG",
+          "240": "https://hhcdn.ru/employer-logo/649191.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/649190.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=665662",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:34:06+0300",
+      "created_at": "2020-07-30T09:34:06+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38313168",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38313168?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38313168",
+      "relations": [],
+      "snippet": {
+        "requirement": "Аккуратная эксплуатация вверенной техники. Требования: Опыт работы водителем. Права категории B.",
+        "responsibility": "Работа на грузопассажирской Газели на участке по обслуживанию дорог в Выборгском и Приозерском районах Ленинградской области."
+      },
+      "contacts": {
+        "name": "Гаврилов Алексей Викторович",
+        "email": "a.v.gavrilov@etscorp.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "921",
+            "number": "3255175",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "flyInFlyOut",
+        "name": "Вахтовый метод"
+      }
+    },
+    {
+      "id": "38313166",
+      "premium": false,
+      "name": "Помощник на документы",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 18000,
+        "to": 43000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "4794309",
+        "name": "Виноградов",
+        "url": "https://api.hh.ru/employers/4794309",
+        "alternate_url": "https://hh.ru/employer/4794309",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4794309",
+        "trusted": false
+      },
+      "published_at": "2020-07-30T09:34:04+0300",
+      "created_at": "2020-07-30T09:34:04+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38313166",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38313166?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38313166",
+      "relations": [],
+      "snippet": {
+        "requirement": "Ответственность. Исполнительность. Знание базовых офисных программ.",
+        "responsibility": "Регистрация входящей корреспонденции. Заполнение заявок и договоров. Консультации клиентов компании по услугам. Составление отчетности для руководства о проделанной работе."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      }
+    },
+    {
+      "id": "37944141",
+      "premium": false,
+      "name": "Менеджер по продажам",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "улица Маршала Новикова",
+        "building": "28Е",
+        "description": null,
+        "lat": 60.026001,
+        "lng": 30.271303,
+        "raw": "Санкт-Петербург, улица Маршала Новикова, 28Е",
+        "metro": null,
+        "metro_stations": [],
+        "id": "3623451"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "4383797",
+        "name": "Миниворкс",
+        "url": "https://api.hh.ru/employers/4383797",
+        "alternate_url": "https://hh.ru/employer/4383797",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3224904.png",
+          "240": "https://hhcdn.ru/employer-logo/3224905.png",
+          "original": "https://hhcdn.ru/employer-logo-original/695947.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4383797",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:33:59+0300",
+      "created_at": "2020-07-30T09:33:59+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=37944141",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/37944141?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/37944141",
+      "relations": [],
+      "snippet": {
+        "requirement": "Успешный опыт активных продаж от 1 года на рынке В2В. Знание программы 1С. Желательно высшее образование ( предпочтительно...",
+        "responsibility": "Поиск и привлечение новых клиентов (В2В), обработка входящих запросов от существующих клиентов. Ведение переговоров (технические консультации, согласование условий..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "37982020",
+      "premium": false,
+      "name": "Руководитель направления продаж ( стулья и комплектующие итальянского производства brado.it)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "улица Маршала Новикова",
+        "building": "28Е",
+        "description": null,
+        "lat": 60.026001,
+        "lng": 30.271303,
+        "raw": "Санкт-Петербург, улица Маршала Новикова, 28Е",
+        "metro": null,
+        "metro_stations": [],
+        "id": "3623451"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "4383797",
+        "name": "Миниворкс",
+        "url": "https://api.hh.ru/employers/4383797",
+        "alternate_url": "https://hh.ru/employer/4383797",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3224904.png",
+          "240": "https://hhcdn.ru/employer-logo/3224905.png",
+          "original": "https://hhcdn.ru/employer-logo-original/695947.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4383797",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:33:53+0300",
+      "created_at": "2020-07-30T09:33:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=37982020",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/37982020?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/37982020",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт продаж от 2-х лет. Грамотная устная и письменная речь. Высокие коммуникативные навыки и проактивность . Быстрая обучаемость. ",
+        "responsibility": "Развитие и продвижение нового направления компании. Привлечение новых клиентов ( по существующей базе ). Организация и контроль всех этапов сделки ( от заключения..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "38313153",
+      "premium": false,
+      "name": "Продавец-консультант в салон связи \"Мегафон\" (ТЦ \"Атмосфера\")",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Комендантский проспект",
+        "building": null,
+        "description": null,
+        "lat": 60.036596,
+        "lng": 30.225758,
+        "raw": "Санкт-Петербург, Комендантский проспект",
+        "metro": {
+          "station_name": "Комендантский проспект",
+          "line_name": "Фрунзенско-Приморская",
+          "station_id": "18.245",
+          "line_id": "18",
+          "lat": 60.008591,
+          "lng": 30.258663
+        },
+        "metro_stations": [
+          {
+            "station_name": "Комендантский проспект",
+            "line_name": "Фрунзенско-Приморская",
+            "station_id": "18.245",
+            "line_id": "18",
+            "lat": 60.008591,
+            "lng": 30.258663
+          }
+        ],
+        "id": "2934467"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "1217313",
+        "name": "МегаФон Ритейл",
+        "url": "https://api.hh.ru/employers/1217313",
+        "alternate_url": "https://hh.ru/employer/1217313",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/1080405.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/1080404.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/56172.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1217313",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:33:47+0300",
+      "created_at": "2020-07-30T09:33:47+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38313153",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38313153?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38313153",
+      "relations": [],
+      "snippet": {
+        "requirement": "Активность. Целеустремленность. Доброжелательность и готовность помочь. Стремление к получению новых знаний и финансовой независимости. Уверенный пользователь ПК.",
+        "responsibility": "Продажа мобильных устройств и аксессуаров. Консультирование Клиентов. Подключение и обслуживание абонентов «МегаФон». Решение организационных вопросов (открытие, закрытие салона‚ ведение отчетности..."
+      },
+      "contacts": {
+        "name": "Юданова Юлия Владимировна",
+        "email": "yuliya.yudanova@megafon-retail.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "921",
+            "number": "1213480",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "38196148",
+      "premium": false,
+      "name": "Электромеханик отдела технической эксплуатации флота (г. Отрадное)",
+      "department": {
+        "id": "LCR-3344-buzm",
+        "name": "ЛСР. Базовые"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 44300,
+        "to": 44300,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3344",
+        "name": "Группа ЛСР",
+        "url": "https://api.hh.ru/employers/3344",
+        "alternate_url": "https://hh.ru/employer/3344",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/1513451.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/1513450.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/267730.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3344",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:33:23+0300",
+      "created_at": "2020-07-30T09:33:23+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38196148",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38196148?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38196148",
+      "relations": [],
+      "snippet": {
+        "requirement": "Среднее или высшее (морское) образование. Рабочий диплом электромеханика.",
+        "responsibility": "Организация и обеспечение безаварийной работы систем и механизмов группы судов. Контроль и обеспечение выполнения ремонтов, обслуживания систем и механизмов группы..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "37921872",
+      "premium": false,
+      "name": "Рекрутер",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "В.О. , 21 линия",
+        "building": "6 \"А\"",
+        "description": null,
+        "lat": 59.931954,
+        "lng": 30.26744,
+        "raw": "Санкт-Петербург, В.О. , 21 линия, 6 \"А\"",
+        "metro": {
+          "station_name": "Василеостровская",
+          "line_name": "Невско-Василеостровская",
+          "station_id": "16.228",
+          "line_id": "16",
+          "lat": 59.942577,
+          "lng": 30.278254
+        },
+        "metro_stations": [
+          {
+            "station_name": "Василеостровская",
+            "line_name": "Невско-Василеостровская",
+            "station_id": "16.228",
+            "line_id": "16",
+            "lat": 59.942577,
+            "lng": 30.278254
+          }
+        ],
+        "id": "1001634"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3145964",
+        "name": "Билайн ШПД",
+        "url": "https://api.hh.ru/employers/3145964",
+        "alternate_url": "https://hh.ru/employer/3145964",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2377121.png",
+          "90": "https://hhcdn.ru/employer-logo/2377120.png",
+          "original": "https://hhcdn.ru/employer-logo-original/483817.gif"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3145964",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:33:18+0300",
+      "created_at": "2020-07-30T09:33:18+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=37921872",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/37921872?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/37921872",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт работы от 1 года в сфере массового подбора персонала. Отличные коммуникативные навыки, грамотная речь, стрессоустойчивость, доброжелательность. Умение быстро усваивать...",
+        "responsibility": "Заниматься массовым подбором персонала на тематических сайтах. Размещать вакансии в открытых источниках. Осуществлять поиск и отбор резюме, приглашать на собеседования. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "38313136",
+      "premium": false,
+      "name": "Продавец-консультант в салон связи \"Мегафон\" (ТРК «Питер Радуга»)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "1217313",
+        "name": "МегаФон Ритейл",
+        "url": "https://api.hh.ru/employers/1217313",
+        "alternate_url": "https://hh.ru/employer/1217313",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/1080405.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/1080404.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/56172.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1217313",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:33:18+0300",
+      "created_at": "2020-07-30T09:33:18+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38313136",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38313136?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38313136",
+      "relations": [],
+      "snippet": {
+        "requirement": "Активность. Целеустремленность. Доброжелательность и готовность помочь. Стремление к получению новых знаний и финансовой независимости. Уверенный пользователь ПК.",
+        "responsibility": "Продажа мобильных устройств и аксессуаров. Консультирование Клиентов. Подключение и обслуживание абонентов «МегаФон». Решение организационных вопросов (открытие, закрытие салона‚ ведение отчетности..."
+      },
+      "contacts": {
+        "name": "Юданова Юлия Владимировна",
+        "email": "yuliya.yudanova@megafon-retail.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "921",
+            "number": "1213480",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "38034225",
+      "premium": false,
+      "name": "Водитель топливных перевозок",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 80000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2476133",
+        "name": "ЭКСПРЕСС",
+        "url": "https://api.hh.ru/employers/2476133",
+        "alternate_url": "https://hh.ru/employer/2476133",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3169461.png",
+          "90": "https://hhcdn.ru/employer-logo/3169460.png",
+          "original": "https://hhcdn.ru/employer-logo-original/682082.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2476133",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:33:14+0300",
+      "created_at": "2020-07-30T09:33:14+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38034225",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38034225?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38034225",
+      "relations": [],
+      "snippet": {
+        "requirement": "Желательно,действующий ДОПОГ. -Опыт работы на категории Е не менее 1 года. -Ответственный,коммуникабельный.",
+        "responsibility": "Перевозка нефтепродуктов."
+      },
+      "contacts": {
+        "name": "Эльтон",
+        "email": "nataliabudennaa230@gmail.com",
+        "phones": [
+          {
+            "comment": null,
+            "city": "911",
+            "number": "8281290",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      }
+    },
+    {
+      "id": "38313115",
+      "premium": false,
+      "name": "Менеджер по снабжению",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 40000,
+        "to": 45000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Мельничная улица",
+        "building": "14",
+        "description": null,
+        "lat": 59.913979,
+        "lng": 30.392656,
+        "raw": "Санкт-Петербург, Мельничная улица, 14",
+        "metro": null,
+        "metro_stations": [],
+        "id": "4016920"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "3998611",
+        "name": "Двери купе Про",
+        "url": "https://api.hh.ru/employers/3998611",
+        "alternate_url": "https://hh.ru/employer/3998611",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3998611",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:32:30+0300",
+      "created_at": "2020-07-30T09:32:30+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38313115",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38313115?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38313115",
+      "relations": [],
+      "snippet": {
+        "requirement": "Знание мебельной отрасли приветствуется. - Отличное знание 1С, Excel. - Опыт работы желателен. - Отличное знание Excel (умение делать сводные таблицы). - ",
+        "responsibility": "Закупка материалов для нужд компании. Работа с поставщиками. Отслеживание сроков поставки. Оформление возвратов и рекламаций. Закупка материалов для нужд компании. "
+      },
+      "contacts": {
+        "name": "Опанасюк Алексей Владимирович",
+        "email": "opanasuk80@rambler.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "905",
+            "number": "2882626",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "38313093",
+      "premium": false,
+      "name": "Специалист по рекламе (размещение вакансий, home-office)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": null,
+        "to": 25000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Глиняная улица",
+        "building": "5к1",
+        "description": null,
+        "lat": 59.916406,
+        "lng": 30.392081,
+        "raw": "Санкт-Петербург, Глиняная улица, 5к1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "649201"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "556602",
+        "name": "МЕГАТЭКС",
+        "url": "https://api.hh.ru/employers/556602",
+        "alternate_url": "https://hh.ru/employer/556602",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/614433.jpg",
+          "240": "https://hhcdn.ru/employer-logo/2898885.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/2898884.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=556602",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:31:43+0300",
+      "created_at": "2020-07-30T09:31:43+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38313093",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38313093?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38313093",
+      "relations": [],
+      "snippet": {
+        "requirement": "Грамотность. Знание основ ведения соц сети Вконтакте, в т.ч. таргетинг. Знание сайтов (авито, супер джоб и т. д.). ",
+        "responsibility": "Размещение вакансий в социальных сетях, ведение группы вконтакте, instagram в т.ч. таргетинг и спам по тематическим группам (Спб и..."
+      },
+      "contacts": {
+        "name": "Зорина Татьяна",
+        "email": "zorina_ts@megateks.net",
+        "phones": [
+          {
+            "comment": "с 09:00 до 16:30",
+            "city": "960",
+            "number": "2751914",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      }
+    },
+    {
+      "id": "38313084",
+      "premium": false,
+      "name": "Продавец/Работник торгового зала (м. Девяткино)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 20000,
+        "to": 25000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "4606",
+        "name": "Familia",
+        "url": "https://api.hh.ru/employers/4606",
+        "alternate_url": "https://hh.ru/employer/4606",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/1252705.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/1252704.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/117554.JPG"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4606",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:31:25+0300",
+      "created_at": "2020-07-30T09:31:25+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38313084",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38313084?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38313084",
+      "relations": [],
+      "snippet": {
+        "requirement": "Ответственных и активных. Внимательных и готовых обучаться. Без опыта работы. Желающих расти и развиваться в крупной стабильной Компании.",
+        "responsibility": "Выкладка и ротация товара. Поддержание чистоты и порядка в торговом зале. Переоценка товара 1 раз в месяц. Участие в инвентаризациях..."
+      },
+      "contacts": {
+        "name": "Измайлова Яна (Управляющий директор)",
+        "email": null,
+        "phones": [
+          {
+            "comment": "доб. 6299",
+            "city": "800",
+            "number": "7006886",
+            "country": "7"
+          },
+          {
+            "comment": null,
+            "city": "981",
+            "number": "1958020",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      }
+    },
+    {
+      "id": "38313078",
+      "premium": false,
+      "name": "Ведущий инженер-проектировщик ЭО ЭМ ЭС",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "description": null,
+        "lat": null,
+        "lng": null,
+        "raw": null,
+        "metro": {
+          "station_name": "Выборгская",
+          "line_name": "Кировско-Выборгская",
+          "station_id": "14.196",
+          "line_id": "14",
+          "lat": 59.970925,
+          "lng": 30.347408
+        },
+        "metro_stations": [
+          {
+            "station_name": "Выборгская",
+            "line_name": "Кировско-Выборгская",
+            "station_id": "14.196",
+            "line_id": "14",
+            "lat": 59.970925,
+            "lng": 30.347408
+          }
+        ],
+        "id": "459300"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "32177",
+        "name": "Росинжиниринг, Компания",
+        "url": "https://api.hh.ru/employers/32177",
+        "alternate_url": "https://hh.ru/employer/32177",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/878300.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/878301.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/225341.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=32177",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:31:07+0300",
+      "created_at": "2020-07-30T09:31:07+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38313078",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38313078?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38313078",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт проектирования разделов &quot;силовое электрооборудование&quot; и &quot;электроснабжение&quot; 0,4 кВ не менее 3 лет (объекты жилого и общественного назначения). ",
+        "responsibility": "Пояснительная записка. Расчеты электрических нагрузок, потерь напряжения, токов короткого замыкания, установок аппаратов защиты, молниезащиты и заземления. Схемы электрические принципиальные. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "38292877",
+      "premium": false,
+      "name": "Оператор call-центра на исходящие звонки",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Новочеркасский проспект",
+        "building": "1",
+        "description": null,
+        "lat": 59.941177,
+        "lng": 30.405313,
+        "raw": "Санкт-Петербург, Новочеркасский проспект, 1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "291603"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "89779",
+        "name": "Colortek",
+        "url": "https://api.hh.ru/employers/89779",
+        "alternate_url": "https://hh.ru/employer/89779",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/211927.jpg",
+          "90": "https://hhcdn.ru/employer-logo/329872.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/402729.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=89779",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:30:55+0300",
+      "created_at": "2020-07-30T09:30:55+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38292877",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38292877?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38292877",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт работы в продажах/call-центре от 1 года. Активная жизненная позиция, желание расти в развиваться в сфере продаж. ",
+        "responsibility": "Исходящие звонки потенциальным клиентам, (география продаж - вся Россия) по теплой и холодной базам. Самостоятельный поиск ключевых клиентов компании. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "38189473",
+      "premium": false,
+      "name": "Менеджер по продажам расходных материалов",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 50000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Новочеркасский проспект",
+        "building": "1",
+        "description": null,
+        "lat": 59.941177,
+        "lng": 30.405313,
+        "raw": "Санкт-Петербург, Новочеркасский проспект, 1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "291603"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "89779",
+        "name": "Colortek",
+        "url": "https://api.hh.ru/employers/89779",
+        "alternate_url": "https://hh.ru/employer/89779",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/211927.jpg",
+          "90": "https://hhcdn.ru/employer-logo/329872.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/402729.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=89779",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:30:53+0300",
+      "created_at": "2020-07-30T09:30:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38189473",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38189473?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38189473",
+      "relations": [],
+      "snippet": {
+        "requirement": "Успешный опыт работы в продажах от 1 года (опыт региональных продаж будет преимуществом). Уверенный пользователь ПК (пакет MS Office, Internet...",
+        "responsibility": "Продажа расходных материалов для печати и офисной техники. Поддержание партнерских отношений с уже имеющимися клиентами, развитие и расширение клиентской базы..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "38188902",
+      "premium": false,
+      "name": "Бухгалтер по зарплате и кадрам",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 45000,
+        "to": 55000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Шпалерная улица",
+        "building": "51",
+        "description": null,
+        "lat": 59.948429,
+        "lng": 30.384401,
+        "raw": "Санкт-Петербург, Шпалерная улица, 51",
+        "metro": null,
+        "metro_stations": [],
+        "id": "706723"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "89779",
+        "name": "Colortek",
+        "url": "https://api.hh.ru/employers/89779",
+        "alternate_url": "https://hh.ru/employer/89779",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/211927.jpg",
+          "90": "https://hhcdn.ru/employer-logo/329872.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/402729.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=89779",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:30:49+0300",
+      "created_at": "2020-07-30T09:30:49+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=38188902",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/38188902?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/38188902",
+      "relations": [],
+      "snippet": {
+        "requirement": "Высшее или среднее специальное образование. Опыт сдачи зарплатной отчетности и возмещения расходов на обязательное социальное страхование. Уверенный пользователь ПК Word...",
+        "responsibility": "Ведение КДП в полном объеме: оформление и регистрация трудовых договоров, приказов по личному составу (прием, перевод, увольнение, отпуска). "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "37320694",
+      "premium": false,
+      "name": "Специалист тендерного отдела",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 45000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Новочеркасский проспект",
+        "building": "1",
+        "description": null,
+        "lat": 59.941177,
+        "lng": 30.405313,
+        "raw": "Санкт-Петербург, Новочеркасский проспект, 1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "291603"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "89779",
+        "name": "Colortek",
+        "url": "https://api.hh.ru/employers/89779",
+        "alternate_url": "https://hh.ru/employer/89779",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/211927.jpg",
+          "90": "https://hhcdn.ru/employer-logo/329872.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/402729.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=89779",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:30:48+0300",
+      "created_at": "2020-07-30T09:30:48+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=37320694",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/37320694?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/37320694",
+      "relations": [],
+      "snippet": {
+        "requirement": "Высшее образование. Опыт работы с тендерами со стороны участника, знание 44 ФЗ и 223 ФЗ. Хорошее понимание проведения полного цикла...",
+        "responsibility": "Поиск профильных тендеров 44, 223 ФЗ (картриджи, бумага, этикетки и пр.). Работа на основных электронных площадках, подготовка полного комплекта необходимой..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    },
+    {
+      "id": "37320497",
+      "premium": false,
+      "name": "Помощник менеджера по продажам",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 30000,
+        "to": 50000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Новочеркасский проспект",
+        "building": "1",
+        "description": null,
+        "lat": 59.941177,
+        "lng": 30.405313,
+        "raw": "Санкт-Петербург, Новочеркасский проспект, 1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "291603"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "89779",
+        "name": "Colortek",
+        "url": "https://api.hh.ru/employers/89779",
+        "alternate_url": "https://hh.ru/employer/89779",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/211927.jpg",
+          "90": "https://hhcdn.ru/employer-logo/329872.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/402729.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=89779",
+        "trusted": true
+      },
+      "published_at": "2020-07-30T09:30:46+0300",
+      "created_at": "2020-07-30T09:30:46+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=37320497",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/37320497?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/37320497",
+      "relations": [],
+      "snippet": {
+        "requirement": "Опыт работы в продажах/call-центре от 1 года. Активная жизненная позиция, желание расти в развиваться в сфере продаж. ",
+        "responsibility": "Исходящие звонки потенциальным клиентам, (география продаж - вся Россия) по теплой и холодной базам. Самостоятельный поиск ключевых клиентов компании. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      }
+    }
+  ],
+  "found": 45050,
+  "pages": 100,
+  "per_page": 20,
+  "page": 0,
+  "clusters": null,
+  "arguments": null,
+  "alternate_url": "https://hh.ru/search/vacancy?area=2&control_flag=scorerTreeLimit%3A100&control_flag=unseenResponsesThreshold%3A175&control_flag=vacancyViewPenalty%3ATrue&control_flag=defaultModelVer%3Adictionary_2019_12_12&control_flag=timestampBoostOffset%3A3.0&control_flag=timestampBoostOffsetWithSiteActivity%3A2147483647&enable_snippets=true"
+}
